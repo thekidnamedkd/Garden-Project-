@@ -65,10 +65,6 @@ Contract Sean Downs: <spdowns@protonmail.com>
 
 Kevin Davis <thekidnamedkd@gmail.com>
 
-## Technologies Used
-
-_The Technologies used in the making of this software was Chrome browser, Visual Studio editor, and Mac_
-
 ### License
 
 Copyright (c) 2020 **_Ian Gregg & Kevin Davis & Ben Russell & Joseph Pearce & Sean Downs_**
